@@ -21,4 +21,4 @@ This is a simple beginner-level Python program that generates a random number an
 2. Run the file using:
 
 ## Output
-![Uploading image.png…]()
+<img width="471" height="78" alt="image" src="https://github.com/user-attachments/assets/bb70445b-c3a2-4f0c-8d51-69abfee19e35" />
